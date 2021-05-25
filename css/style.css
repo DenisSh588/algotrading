@@ -753,3 +753,59 @@
   color: #ffffff;
   border: none;
 }
+
+.process {
+  background: url(../img/shape_33.png) no-repeat center/cover;
+}
+
+.process__titel {
+  font-family: Roboto;
+  font-size: 38px;
+  line-height: 1.2;
+  font-weight: 700;
+  color: #000000;
+  padding-top: 46px;
+}
+
+.process__titel__text {
+  font-weight: 300;
+  font-family: Roboto;
+  font-size: 38px;
+}
+
+.process__block {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding-top: 150px;
+  padding-bottom: 140px;
+}
+
+.process__block__titel {
+  font-family: Roboto;
+  font-size: 38px;
+  line-height: 1.2;
+  font-weight: 700;
+  color: #000000;
+  padding-bottom: 42px;
+}
+
+.process__lessons {
+  font-family: Roboto;
+  font-size: 30px;
+  line-height: 1.2;
+  font-weight: 300;
+  color: #000000;
+  padding-bottom: 30px;
+}
+
+.process__text {
+  font-family: Roboto;
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: 300;
+  color: #061826;
+}
