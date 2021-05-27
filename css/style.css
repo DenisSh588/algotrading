@@ -822,7 +822,7 @@
   -webkit-box-shadow: 0px 12px 24px 0px rgba(6, 57, 158, 0.31);
           box-shadow: 0px 12px 24px 0px rgba(6, 57, 158, 0.31);
   border-radius: 4px;
-  ont-family: Roboto;
+  font-family: Roboto;
   font-size: 17px;
   line-height: 1.2;
   font-weight: 700;
@@ -947,4 +947,150 @@
 
 .author-robot__earnings__info__text {
   font-weight: 300;
+}
+
+.results {
+  background: url(../img/img_877.png) no-repeat bottom left;
+}
+
+.results__block {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.results__pupils__titel {
+  max-width: 418px;
+  font-family: Roboto;
+  font-size: 34px;
+  line-height: 1.2;
+  font-weight: 700;
+  color: #000000;
+  padding-bottom: 30px;
+}
+
+.results__pupils__titel__text {
+  font-weight: 300;
+}
+
+.results__pupils__text {
+  max-width: 270px;
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 300;
+  color: #061826;
+}
+
+.results__jan__titel {
+  font-family: Roboto;
+  font-size: 26px;
+  line-height: 1.2;
+  font-weight: 300;
+  color: #000000;
+  padding-top: 45px;
+  padding-bottom: 34px;
+}
+
+.results__jan__text {
+  max-width: 277px;
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 300;
+  color: #061826;
+}
+
+.benefits {
+  background-color: #eaf1f7;
+}
+
+.benefits__img {
+  margin-bottom: 20px;
+}
+
+.benefits__block {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  text-align: center;
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.benefits__block__lntensive {
+  padding-bottom: 65px;
+}
+
+.benefits__card__titel {
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 700;
+  color: #061826;
+  padding-bottom: 10px;
+}
+
+.benefits__card__text {
+  max-width: 239px;
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 300;
+  color: #061826;
+}
+
+.benefits__card__text__actions {
+  max-width: 300px;
+}
+
+.benefits__card__text__practice {
+  max-width: 256px;
+}
+
+.benefits__card__text__robo {
+  max-width: 250px;
+}
+
+.benefits__card__text__bank {
+  max-width: 250px;
+}
+
+.benefits__card__text__task {
+  max-width: 298px;
+}
+
+.benefits__lntensive__titel {
+  font-family: Roboto;
+  font-size: 24px;
+  line-height: 1.2;
+  font-weight: 700;
+  color: #000000;
+  padding-bottom: 40px;
+}
+
+.benefits__lntensive__course {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+.benefits__titel {
+  font-family: Roboto;
+  font-size: 34px;
+  line-height: 1.2;
+  font-weight: 300;
+  color: #000000;
+  padding-bottom: 62px;
 }
