@@ -1031,6 +1031,10 @@
   padding-bottom: 65px;
 }
 
+.benefits__card__bank {
+  padding-right: 45px;
+}
+
 .benefits__card__titel {
   font-family: Roboto;
   font-size: 16px;
@@ -1086,6 +1090,10 @@
       justify-content: space-around;
 }
 
+.benefits__lntensive__course__card {
+  margin-left: 10px;
+}
+
 .benefits__titel {
   font-family: Roboto;
   font-size: 34px;
@@ -1093,4 +1101,104 @@
   font-weight: 300;
   color: #000000;
   padding-bottom: 62px;
+}
+
+.format__practice__card__titel {
+  font-family: Roboto;
+  font-size: 24px;
+  line-height: 28px;
+  font-weight: 700;
+  color: #0f1c2e;
+  padding-top: 48px;
+  padding-bottom: 30px;
+}
+
+.format__practice__card__text {
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 300;
+  color: #061826;
+  max-width: 200px;
+}
+
+.format__practice__card__text__testing {
+  max-width: 250px;
+}
+
+.format__practice__card__text__titel {
+  max-width: 260px;
+}
+
+.format__block {
+  border-bottom: 1px solid #eaf1f7;
+  text-align: center;
+  margin-bottom: 70px;
+}
+
+.format__block__card {
+  padding-bottom: 117px;
+}
+
+.format__block__card__testing {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.format__block__practice {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  text-align: left;
+  padding-top: 40px;
+}
+
+.format__text {
+  font-family: Roboto;
+  font-size: 36px;
+  line-height: 1.2;
+  font-weight: 300;
+  color: #000000;
+  padding-top: 170px;
+  padding-bottom: 65px;
+}
+
+.format__card {
+  text-align: left;
+}
+
+.format__card__testing {
+  margin-top: -195px;
+  margin-bottom: 80px;
+  padding-left: 45px;
+}
+
+.format__card__titel {
+  font-family: Roboto;
+  font-size: 22px;
+  line-height: 1.2;
+  font-weight: 700;
+  color: #ffffff;
+  max-width: 125px;
+  padding-bottom: 30px;
+}
+
+.format__card__text {
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 300;
+  color: #ffffff;
+  max-width: 193px;
+}
+
+.format__card__text__block {
+  max-width: 276px;
 }
